@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name's :sparkles: Ben! :sparkles: 
+I am a **Computer Science**, **Theater Technology and Design**, and **Economics** student from New Jersey.  I study at **Ursinus College** in Collegeville, Pennsylvania. Take a look :eyes: at my personal [website](https://bentdoug.github.io/) where you can:
+- Find out more about me :sunglasses:
+- See my resume! :business_suit_levitating:	
+- See projects I've worked on! :telescope:
+- And more!  
+
+:monocle_face:	Check it out [here](https://bentdoug.github.io/)!(or up there :arrow_upper_right::arrow_upper_right:)
 <!--
 **bentdoug/bentdoug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
