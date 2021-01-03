@@ -7,7 +7,7 @@ I am a **Computer Science**, **Theater Technology and Design**, and **Economics*
 - See projects I've worked on! :telescope:
 - And more!  
 
-:monocle_face:	Check it out [here](https://bentdoug.github.io/)!(or up there :arrow_upper_right::arrow_upper_right:)
+:monocle_face:	Check it out [here](https://bentdoug.github.io/)! (or up there :arrow_upper_right::arrow_upper_right:)
 <!--
 **bentdoug/bentdoug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
