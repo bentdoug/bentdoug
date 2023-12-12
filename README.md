@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name's :sparkles: Ben! :sparkles: 
-I am a **Computer Science**, **Theater Technology and Design**, and **Economics** student from New Jersey.  I study at **Ursinus College** in Collegeville, Pennsylvania. 
+I am a **Computer Science** and **Theater Technology and Design** student from New Jersey.  I study at **Ursinus College** in Collegeville, Pennsylvania. 
 <!--
 Take a look :eyes: at my personal [website](https://bentdoug.github.io/) where you can:
 - Find out more about me :sunglasses:
